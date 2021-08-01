@@ -1,0 +1,14 @@
+node_modules
+package-lock.json
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+.env
