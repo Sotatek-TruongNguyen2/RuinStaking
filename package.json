@@ -31,6 +31,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^8.2.2",
+    "create-react-app": "^4.0.3",
     "ethereum-waffle": "^3.4.0"
   },
   "keywords": [],
